@@ -48,7 +48,7 @@ python app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── app.py                # Main Flask application
@@ -63,13 +63,13 @@ python app.py
 
 ---
 
-## 📄 About
+##  About
 
 This app is built for simplicity and usability. Whether you're a student, professional, or anyone needing a task manager — this is your go-to app. Inspired by modern UI principles and designed with learning Flask in mind.
 
 ---
 
-## 🙌 Credits
+##  Credits
 
 Created using:
 - Flask
@@ -79,6 +79,6 @@ Created using:
 
 ---
 
-## 📌 License
+##  License
 
 This project is open-source and available for educational and personal use.
